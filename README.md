@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/jpldcarvalho/jpldcarvalho/main/assets/header.gif)]()
+
 ## 👋 Olá
 Hi, I am Carvalho, and I build stuff. I love p2p systems, and I am a security enthusiast.
 Currently, I am working on something for improving the internet and enabling web3 to scale effectively.
