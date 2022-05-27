@@ -22,7 +22,6 @@ You can also find me on [github](https://github.com/jpldcarvalho), [twitter](htt
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Storage-IPFS-informational?style=flat&logo=ipfs&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=313340)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Database-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=313340)
