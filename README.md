@@ -31,7 +31,6 @@ You can also find me on [github](https://github.com/jpldcarvalho), [twitter](htt
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Code-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=313340)
 
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=313340)
