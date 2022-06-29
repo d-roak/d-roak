@@ -6,7 +6,7 @@ Currently, I am working on something for improving the internet and enabling web
 
 You can check my websites [jpldcarvalho.com](https://jpldcarvalho.com/) (currently down but user friendly) and [jpldcarvalho.sh](https://jpldcarvalho.sh/) (geek friendly).
 
-You can also find me on [github](https://github.com/jpldcarvalho), [twitter](https://twitter.com/jpldcarvalho), or [linkedin](https://www.linkedin.com/in/jpldcarvalho/). You can also drop me a message at jpldcarvalho#5890 or me[at]jpldcarvalho[dot]com.
+You can also find me on [github](https://github.com/jpldcarvalho), or [twitter](https://twitter.com/jpldcarvalho). You can also drop me a message at jpldcarvalho#5890 or me[at]jpldcarvalho[dot]com.
 
 ## 🔧 Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=archlinux&logoColor=white&color=313340)
