@@ -4,7 +4,7 @@
 Hi, I am Carvalho, and I build stuff. I love p2p systems, and I am a security enthusiast.
 Currently, I am working on something for improving the internet and enabling web3 to scale effectively.
 
-You can check my websites [jpldcarvalho.com](https://jpldcarvalho.com/) (currently down but user friendly) and [jpldcarvalho.sh](https://jpldcarvalho.sh/) (geek friendly).
+You can check my websites [jpldcarvalho.com](https://jpldcarvalho.com/) (user friendly) and [jpldcarvalho.sh](https://jpldcarvalho.sh/) (geek friendly).
 
 You can also find me on [github](https://github.com/jpldcarvalho), or [twitter](https://twitter.com/jpldcarvalho). You can also drop me a message at jpldcarvalho#5890 or me[at]jpldcarvalho[dot]com.
 
