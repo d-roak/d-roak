@@ -6,7 +6,7 @@ You can check my websites [jpldcarvalho.com](https://jpldcarvalho.com/) (user fr
 
 You can also find me on [github](https://github.com/jpldcarvalho), or [twitter](https://twitter.com/jpldcarvalho). You can also drop me a message at jpldcarvalho#5890 or me[at]jpldcarvalho[dot]com.
 
-## 🔧 Tools
+## 🔧 Stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=archlinux&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=313340)
 
@@ -20,7 +20,6 @@ You can also find me on [github](https://github.com/jpldcarvalho), or [twitter](
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=313340)
-![](https://img.shields.io/badge/Database-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=313340)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=313340)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=313340)
