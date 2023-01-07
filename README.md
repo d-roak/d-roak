@@ -4,7 +4,7 @@ Currently, I am a PhD student at NOVA SST researching how to improve the interne
 
 You can check my websites [jpldcarvalho.com](https://jpldcarvalho.com/) (user friendly) and [jpldcarvalho.sh](https://jpldcarvalho.sh/) (geek friendly).
 
-You can also find me on [github](https://github.com/jpldcarvalho), or [twitter](https://twitter.com/jpldcarvalho). You can also drop me a message at jpldcarvalho#5890 or me[at]jpldcarvalho[dot]com.
+You can find me on [github](https://github.com/jpldcarvalho), or [twitter](https://twitter.com/jpldcarvalho). You can also drop me a message at jpldcarvalho#5890 or me[at]jpldcarvalho[dot]com.
 
 ## 🔧 Stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=archlinux&logoColor=white&color=313340)
