@@ -2,9 +2,9 @@
 Hi, I am Carvalho, and I build stuff. I love p2p systems, and I am a security enthusiast.
 Currently, I am a PhD student at NOVA SST researching how to improve the internet and enable web3 to scale effectively.
 
-You can check my websites [jpldcarvalho.com](https://jpldcarvalho.com/) (user friendly) and [jpldcarvalho.sh](https://jpldcarvalho.sh/) (geek friendly).
+You can check my personal website at [droak.sh](https://droak.sh/).
 
-You can find me on [github](https://github.com/jpldcarvalho), or [twitter](https://twitter.com/jpldcarvalho). You can also drop me a message at jpldcarvalho#5890 or me[at]jpldcarvalho[dot]com.
+You can find me on [github](https://github.com/d-roak), or [twitter](https://twitter.com/droak_). You can also drop me a message at droak#5890 or me[at]droak[dot]sh.
 
 ## 🔧 Stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=archlinux&logoColor=white&color=313340)
