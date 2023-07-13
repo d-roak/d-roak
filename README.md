@@ -1,10 +1,10 @@
 ## 👋 Olá
 Hi, I am Oak, and I build stuff. I love p2p systems, and I am a security enthusiast.
-Currently, I am a PhD student at NOVA SST researching how to improve the internet and enable web3 to scale effectively.
+Currently, I am contributing to open-source projects to improve the internet and enable web3 to scale effectively.
 
 You can check my personal website at [droak.sh](https://droak.sh/).
 
-You can find me on [github](https://github.com/d-roak), or [twitter](https://twitter.com/droak_). You can also drop me a message at droak#5890 or me[at]droak[dot]sh.
+You can find me on [github](https://github.com/d-roak), or [twitter](https://twitter.com/droak_). You can also message me at droak#5890 or me[at]droak[dot]sh.
 
 ## 🔧 Stack
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=313340)
