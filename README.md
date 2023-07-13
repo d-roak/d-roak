@@ -4,7 +4,7 @@ Currently, I am contributing to open-source projects to improve the internet and
 
 You can check my personal website at [droak.sh](https://droak.sh/).
 
-You can find me on [github](https://github.com/d-roak), or [twitter](https://twitter.com/droak_). You can also message me at droak#5890 or me[at]droak[dot]sh.
+You can find me on [github](https://github.com/d-roak), or [twitter](https://twitter.com/droak_). You can also message me at d_roak (telegram) or me[at]droak[dot]sh.
 
 ## 🔧 Stack
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=313340)
