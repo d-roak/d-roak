@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img src="https://github.com/d-roak/d-roak/assets/5263301/8603c548-3dab-4393-9e95-c0ccbc842c4f">
-</div>
-
 ## 👋 Olá
 Hi, I am Oak, and I build stuff. I love p2p systems, and I am a security enthusiast.
 
