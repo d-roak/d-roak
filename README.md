@@ -1,11 +1,7 @@
+![image](https://github.com/d-roak/d-roak/assets/5263301/731ca969-e567-4b0b-981a-0a467ba62bfc)
+
 ## 👋 Olá
-Hi, I am Oak, and I build stuff. I love p2p systems, and I am a security enthusiast.
-
-Currently, I am contributing to open-source projects to improve the internet and enable web3 to scale effectively.
-
-You can check my personal website at [droak.sh](https://droak.sh/).
-
-You can find me on [github](https://github.com/d-roak), or [twitter](https://twitter.com/droak_). You can also message me at d_roak (telegram) or me[at]droak[dot]sh.
+Hi, I am Oak. You can find more info about me on my website at [droak.sh](https://droak.sh/).
 
 ## &#x1f4c8; GitHub Stats
 <div align="center">
